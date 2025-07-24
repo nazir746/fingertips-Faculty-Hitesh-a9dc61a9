@@ -1,4 +1,4 @@
 #include<stdio.h>
 int main(){
-    cout<<""
+    cout<<"Heelo"<<endl;
 }
